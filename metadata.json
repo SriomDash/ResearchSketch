@@ -1,0 +1,7 @@
+{
+  "name": "ReasonSketch",
+  "description": "A cognitive instrument to visualize, stress-test, and rewrite human reasoning using Gemini. It maps arguments into nodes and links to reveal hidden assumptions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
